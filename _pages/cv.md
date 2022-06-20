@@ -11,22 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Oceanography, Universidade Federal do Rio Grande, 2015
+* M.S. in Marine and Lacustrine Science and Management, 2018
+* Ph.D in Geoscieces, TU Delft, 2023 (ongoing)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* When: Position
+  * Place
+  * Duties included: 
+  * Supervisor: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -56,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ...
