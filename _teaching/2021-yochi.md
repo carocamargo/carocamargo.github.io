@@ -1,5 +1,5 @@
 ---
-title: "Present-Day Sea-level Change Along the South American Atlantic Coastline"
+title: "MSc Supervision - Present-Day Sea-level Change Along the South American Atlantic Coastline"
 collection: teaching
 type: "MSc Thesis Supervision"
 permalink: /teaching/2021-yochi
