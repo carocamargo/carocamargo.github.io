@@ -1,7 +1,7 @@
 ---
 title: "Exploring Sources of Uncertainty in Steric Sea-Level Change Estimates"
 collection: publications
-permalink: /publication/2020-09-25-JGRoceans-steric
+permalink: /publication/2020-25-09-JGRoceans-steric
 excerpt: 'This paper is about regional and global steric sea-level change (temperature and salinity driven) from 1993-2017'
 date: 2020-25-09
 venue: 'JGR Oceans'

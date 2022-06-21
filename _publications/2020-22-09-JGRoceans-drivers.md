@@ -1,7 +1,7 @@
 ---
 title: "Drivers of Interannual Sea Level Variability on the Northwestern European Shelf"
 collection: publications
-permalink: /publication/2020-09-22-JGRoceans-drivers
+permalink: /publication/2020-22-09-JGRoceans-drivers
 excerpt: 'This paper is about the drivers of regional sea-level change on the Northwestern European Shelf'
 date: 2020-22-09
 venue: 'JGR Oceans'
