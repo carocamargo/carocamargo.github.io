@@ -1,9 +1,9 @@
 ---
 title: "Exploring Sources of Uncertainty in Steric Sea-Level Change Estimates"
 collection: publications
-permalink: /publication/2020-25-09-JGRoceans-steric
-excerpt: 'This paper is about regional and global steric sea-level change (temperature and salinity driven) from 1993-2017'
-date: 2022-03-15
+permalink: /publication/2020-09-25-JGRoceans-steric
+excerpt: 'This paper is about regional and global steric sea-level change (temperature and salinity driven) during the satellite altimetry era'
+date: 2020-09-25
 venue: 'JGR Oceans'
 citation: 'Camargo, C. M. L., Riva, R. E. M.,Hermans, T. H. J., & Slangen, A. B. A.(2020). Exploring sources of uncertaintyin steric sea‐level change estimates.Journal of Geophysical Research:Oceans,125, e2020JC016551. https://doi.org/10.1029/2020JC016551'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016551'
