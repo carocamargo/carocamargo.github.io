@@ -17,20 +17,31 @@ Education
 
 Work experience
 ======
-* When: Position
-  * Place
+*  July-October 2018: Research Intern
+  * Ocean Observatory of Madeira (OOM), Funchal, Portugal
   * Duties included: 
-  * Supervisor: 
+    * Turbulence data and processing analysis; 
+    * Assistance on cruise planning
+    * Oceanographic cruise at the NRP Gago Coutinho for 20 days
+    * Data collection with MicroRider, CTD, UnderwayCTD and WireWalker
+  * Supervisor: Dr. Rui Caldeira
+  
+  *  July-September 2017: Research Intern
+    * Ocean Observatory of Madeira (OOM), Funchal, Portugal
+    * Duties included: 
+      * Turbulence data and processing analysis; 
+      * Assistance on cruise planning
+       * Oceanographic cruise at the B/O SOCIB for 18 days
+      * Data collection with VMP-250, CTD, UnderwayCTD, Niskin bottles and ADCP
+    * Supervisor: Dr. Rui Caldeira
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  June-August 2014: Research Intern
+  * Rockland Scientific International (RSI), Victoria, Canada
+  * Duties included: 
+    * Training in turbulence data and processing analysis; 
+    * Data collection with VMP-250
+  * Supervisor: Dr. Emma Murowinski, Dr. Rolf Lueck
+  
 
 Publications
 ======
@@ -52,4 +63,5 @@ Teaching
   
 Service and leadership
 ======
-* ...
+* Member of the NIOZ Colloquium Committee (2019-present)
+* Member of the Yerseke Young Scientist Representative Council (2020-present)
