@@ -4,7 +4,12 @@ excerpt: "Interactive map for regional sea-level budget, based on delta-map clus
 collection: portfolio
 ---
 
-Interactive map for regional sea-level budget, based on delta-map clusters. 
+Interactive map for regional sea-level budget, based on self-organizing maps and delta-map clusters. 
 <center>
 {% include dmaps_interactive.html %}
 </center>
+
+<center>
+{% include som_interactive.html %}
+</center>
+
