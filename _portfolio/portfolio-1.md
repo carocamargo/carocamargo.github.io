@@ -1,14 +1,17 @@
 ---
-title: "deltaMaps SL Budget"
-excerpt: "Interactive map for regional sea-level budget, based on delta-map clusters. <br/><img src='/images/dmaps.png'>"
+title: "Regional Sea-level Budget"
+excerpt: "Interactive maps for regional sea-level budget, based on pattern detection algorithms. <br/><img src='/images/dmaps.png'>"
 collection: portfolio
 ---
 
-Interactive map for regional sea-level budget, based on self-organizing maps and delta-map clusters. 
+Interactive maps for regional sea-level budget, based on:
+
+## 1. delta-map clusters:
 <center>
 {% include dmaps_interactive.html %}
 </center>
 
+## 2. Self-organizing maps: 
 <center>
 {% include som_interactive.html %}
 </center>
