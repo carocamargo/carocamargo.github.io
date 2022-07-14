@@ -18,7 +18,7 @@ Interactive maps for regional sea-level budget, based on:
 
 ## 2.b. Self-organizing maps (k=81): 
 <center>
-{% som9x9_interactive_tab20.html %}
-{% som9x9_interactive_romaO.html %}
+{% include som9x9_interactive_tab20.html %}
+{% include som9x9_interactive_romaO.html %}
 
 </center>
