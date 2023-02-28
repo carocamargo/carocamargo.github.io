@@ -2,7 +2,7 @@
 title: "How Can Nature Protect People Against Sea-Level Rise?"
 collection: publications
 permalink: /publication/2023-02-09-kids_paper
-excerpt: 'Kids paper about natured-based solutions'
+excerpt: 'Paper for kids about natured-based solutions'
 date: 2023-02-09
 venue: 'Frontiers for Young Minds'
 paperurl: 'https://doi.org/10.3389/frym.2023.910803'

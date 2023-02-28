@@ -1,7 +1,7 @@
 ---
 title: "The evolution of 21st century sea-level projections from IPCC AR5 to AR6 and beyond"
 collection: publications
-permalink: /publication/2022-12-01-AR6_projections.md
+permalink: /publication/2022-12-01-AR6_projections
 excerpt: 'Short review of evolution of IPCC AR5 and AR6 sea-level projections'
 date: 2022-12-01
 venue: 'Cambridge Prisms'
