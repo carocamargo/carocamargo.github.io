@@ -33,7 +33,7 @@ below:
 * Chapter 2: The steric fields and trends produced in this research, as well as supporting scripts, are
 available at the 4TU.Research Data [repository](https://doi.org/10.4121/12764933).
 * Chapter 3: The regional mass-driven sea-level fields and uncertainties the figures of this chapter
-are available from the 4TU.ResearchData (repository)[https://doi.org/10.4121/16778794].
+are available from the 4TU.ResearchData [repository](https://doi.org/10.4121/16778794).
 * Chapter 4: All the contributions to the regional sea-level budget as well as the sub-basins polygons are available from [Zenodo repository](http://dx.doi.org/10.5281/zenodo.7007330).
 
 
