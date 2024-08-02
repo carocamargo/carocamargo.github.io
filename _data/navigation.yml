@@ -12,8 +12,8 @@ main:
   - title: "Resources"
     url: /resources/
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Science Communication"
+    url: /scicom/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
