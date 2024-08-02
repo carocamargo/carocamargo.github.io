@@ -194,6 +194,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
+  scicom:
+    output: true
+    permalink: /:collection/:path/
     
 
 
