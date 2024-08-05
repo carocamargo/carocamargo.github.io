@@ -3,9 +3,12 @@ title: "Abstract Videos"
 collection: scicom
 permalink: /scicom/video-steric
 excerpt: 'Videos explaining scientific results in a simple and fun way.'
-paperurl: 'https://www.youtube.com/watch?v=Uh-GN9QznFI&t=1s&ab_channel=carolinamachadolimadecamargo and https://www.youtube.com/watch?v=I6HpLwchfWQ&t=1s&ab_channel=carolinamachadolimadecamargo'
-citation: 'Camargo, C. M. L., Riva, R. E. M.,Hermans, T. H. J., & Slangen, A. B. A. (2020). Exploring sources of uncertaintyin steric sea‐level change estimates. Journal of Geophysical Research:Oceans,125, e2020JC016551. https://doi.org/10.1029/2020JC016551'
+
+paperurl: 'https://www.youtube.com/watch?v=I6HpLwchfWQ&list=PLQ04y_DQYrP8gMjPNN-9CsubYDbSGqfCN&ab_channel=carolinamachadolimadecamargo'
+citation: 
 ---
-Video abstract for the paper 
-Camargo, C. M. L., Riva, R. E. M.,Hermans, T. H. J., & Slangen, A. B. A.(2020). Exploring sources of uncertainty in steric sea-level change estimates.Journal of Geophysical Research:Oceans, 12 5, e2020JC016551. https://doi.org/10.1029/2020JC016551
+
+How variations in ocean temperature and salinity cause sea-level change: https://www.youtube.com/watch?v=Uh-GN9QznFI&t=1s&ab_channel=carolinamachadolimadecamargo 
+
+How ice melt from glaciers and ice sheets cause sea-level change: https://www.youtube.com/watch?v=I6HpLwchfWQ&ab_channel=carolinamachadolimadecamargo
 
