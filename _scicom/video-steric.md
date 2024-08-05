@@ -4,8 +4,8 @@ collection: scicom
 permalink: /scicom/video-steric
 excerpt: 'Videos explaining scientific results in a simple and fun way.'
 
-paperurl: 'https://www.youtube.com/watch?v=I6HpLwchfWQ&list=PLQ04y_DQYrP8gMjPNN-9CsubYDbSGqfCN&ab_channel=carolinamachadolimadecamargo'
-citation: 
+url: 'https://www.youtube.com/watch?v=I6HpLwchfWQ&list=PLQ04y_DQYrP8gMjPNN-9CsubYDbSGqfCN&ab_channel=carolinamachadolimadecamargo'
+
 ---
 
 How variations in ocean temperature and salinity cause sea-level change: https://www.youtube.com/watch?v=Uh-GN9QznFI&t=1s&ab_channel=carolinamachadolimadecamargo 
