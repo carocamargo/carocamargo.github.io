@@ -19,14 +19,14 @@ Work experience
 ======
 
   <ul>
-  <li>Tan 2019 - Jun 2023: PhD Researcher
+  <li>Jan 2019 - Jun 2023: PhD Researcher
     <ul>
       <li>Royal Netherlands Institute of Sea Research (NIOZ), Yerseke, The Netherlands</li>
       <li>Thesis: Closing the regional sea-level budget since 1993 </li>
       <li>Dealing with satellite altimetry and gravimetry data; Argo data and ocean reanalysis and models outputs;</li>
     </ul>
   </li>
-  <li>FJuly-October 2018: Research Intern</li>
+  <li>July-October 2018: Research Intern</li>
 </ul>
 *  
   ** 
@@ -38,14 +38,16 @@ Work experience
     * Data collection with MicroRider, CTD, UnderwayCTD and WireWalker
   * Promotors: Dr. Aimee Slangen and Dr. Riccardo Riva
 
-*  July-October 2018: Research Intern
-  ** Ocean Observatory of Madeira (OOM), Funchal, Portugal
-  * Duties included: 
-    * Turbulence data and processing analysis; 
-    * Assistance on cruise planning
-    * Oceanographic cruise at the NRP Gago Coutinho for 20 days
-    * Data collection with MicroRider, CTD, UnderwayCTD and WireWalker
-  * Supervisor: Dr. Rui Caldeira
+
+
+  *  July-October 2018: Research Intern
+      * Ocean Observatory of Madeira (OOM), Funchal, Portugal
+      * Duties included: 
+          * Turbulence data and processing analysis; 
+          * Assistance on cruise planning
+          * Oceanographic cruise at the NRP Gago Coutinho for 20 days
+          * Data collection with MicroRider, CTD, UnderwayCTD and WireWalker
+      * Supervisor: Dr. Rui Caldeira
   
   *  July-September 2017: Research Intern
     * Ocean Observatory of Madeira (OOM), Funchal, Portugal
