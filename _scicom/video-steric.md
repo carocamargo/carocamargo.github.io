@@ -4,7 +4,7 @@ collection: scicom
 permalink: /scicom/video-steric
 excerpt: 'Videos explaining scientific results in a simple and fun way.'
 
-url: 'https://www.youtube.com/watch?v=I6HpLwchfWQ&list=PLQ04y_DQYrP8gMjPNN-9CsubYDbSGqfCN&ab_channel=carolinamachadolimadecamargo'
+videourl: 'https://www.youtube.com/watch?v=I6HpLwchfWQ&list=PLQ04y_DQYrP8gMjPNN-9CsubYDbSGqfCN&ab_channel=carolinamachadolimadecamargo'
 
 ---
 
