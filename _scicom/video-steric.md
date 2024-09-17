@@ -10,8 +10,8 @@ videourl: 'https://www.youtube.com/watch?v=I6HpLwchfWQ&list=PLQ04y_DQYrP8gMjPNN-
 
 ## Videos
 
-[How variations in ocean temperature and salinity cause sea-level change](https://www.youtube.com/watch?v=Uh-GN9QznFI&t=1s&ab_channel=carolinamachadolimadecamargo)
+* How variations in ocean temperature and salinity cause sea-level change: [youtube video](https://www.youtube.com/watch?v=Uh-GN9QznFI&t=1s&ab_channel=carolinamachadolimadecamargo)
 
-[How ice melt from glaciers and ice sheets cause sea-level change](https://www.youtube.com/watch?v=I6HpLwchfWQ&ab_channel=carolinamachadolimadecamargo)
+* How ice melt from glaciers and ice sheets cause sea-level change: [youtube video](https://www.youtube.com/watch?v=I6HpLwchfWQ&ab_channel=carolinamachadolimadecamargo)
 
 
