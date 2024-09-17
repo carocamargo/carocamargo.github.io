@@ -4,7 +4,7 @@ collection: scicom
 permalink: /scicom/synergy
 excerpt: 'Photographies illustrating climate change'
 
-videourl: 'https://www.synergyexperience.org/artists-scientists#marcy-carolina'
+linkurl: 'https://www.synergyexperience.org/artists-scientists#marcy-carolina'
 
 ---
 
