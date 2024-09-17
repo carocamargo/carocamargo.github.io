@@ -11,3 +11,11 @@ author_profile: true
 {% for post in site.scicom %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page | prepend: site.baseurl }}">Previous</a>
+{% endif %}
+
+{% if paginator.next_page %}
+  <a href="{{ paginator.next_page | prepend: site.baseurl }}">Next</a>
+{% endif %}
