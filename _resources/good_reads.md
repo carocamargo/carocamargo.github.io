@@ -11,7 +11,7 @@ Read [here](https://www.nature.com/articles/d41586-025-00967-7) some good advice
 Read [here](https://journals.biologists.com/jcs/article/121/11/1771/30038/) about how to be productively stupid. 
 
 ### Publish or perish: 
-Read [here]https://onlinelibrary.wiley.com/doi/full/10.1111/nae2.32 how the publish or persih culture of academia impact early career researchers 
+Read [here](https://onlinelibrary.wiley.com/doi/full/10.1111/nae2.32) how the publish or persih culture of academia impact early career researchers 
 
 ### Supporting early career researchers
 Read [here](https://academic.oup.com/icesjms/article/77/2/476/5704875) insights from interdisciplinary marine scientists on how to support early career researchers.  
