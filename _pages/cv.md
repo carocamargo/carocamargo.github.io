@@ -66,23 +66,24 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Member of the NIOZ Colloquium Committee (2019-present)
-* Member of the Yerseke Young Scientist Representative Council (2020-present)
+* Vice-president of the WHOI Postdoc Association (2024-2025)
+* Member of the NIOZ Colloquium Committee (2019-2022)
+* Member of the Yerseke Young Scientist Representative Council (2020-2022)
