@@ -11,6 +11,10 @@ author_profile: true
 
 You can also find my articles on  <u><a href="[{{author.googlescholar}}](https://scholar.google.com/citations?user=7Jwu00AAAAAJ&hl=en)">my Google Scholar profile</a>.</u>
 
+You can also find my articles on [my Google Scholar Profile]([https://link-url-here.org](https://scholar.google.com/citations?user=7Jwu00AAAAAJ&hl=en)).
+
+[my Google Scholar Profile]([https://link-url-here.org](https://scholar.google.com/citations?user=7Jwu00AAAAAJ&hl=en))
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
