@@ -17,14 +17,20 @@ Education
 
 Research experience
 ======
-
- * Jun 2023 - ongoing: Postdoctoral Researcher
-      * Woods Hole Oceanographic Institute (WHOI), Physical Oceanography Department
+ * Jan 2026 - ongoing: Postdoctoral Researcher
+      * Mediterranean Institute for Advanced Studies (IMEDEA), Spain 
       * Topic: Relationship between ocean currents and coastal sea level 
+      * Supervisos: Dr. Marta Marcos
+      * 
+ * Jun 2023 - Dec 2025: Postdoctoral Researcher
+      * Woods Hole Oceanographic Institute (WHOI), Physical Oceanography Department
+      * Topic: Connecting shelf processes to coastal sea-level change 
       * Main tasks:
           * Tide gauge data; 
           * ADCP data processing and analysis;
           * Spectral analysis;
+          * SWOT data;
+          * CPIES data processing and analysis;
       * Supervisors: Dr. Chris Piecuch and Dr. Britt Raubenheimer
 
   * Jan 2019 - Jun 2023: PhD Researcher
